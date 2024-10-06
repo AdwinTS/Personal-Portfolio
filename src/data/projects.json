@@ -1,26 +1,34 @@
 [
   {
-    "title": "Project A",
-    "imageSrc": "projects/project.png",
-    "description": "This is a project made to learn the latest languages by building an app.",
-    "skills": ["React", "Express", "Node"],
-    "demo": "https://www.example.com",
-    "source": "https://www.github.com"
+    "title": "Blog interface",
+    "imageSrc": "projects/Blog-interface.png",
+    "description": "This is a project made to have a blog interface where we can create blogs,edit blogs and delete bogs i am in last steps of publishing it",
+    "skills": ["HTML", "CSS", "flask"],
+    "demo": "https://github.com/AdwinTS/Blog_interface-original",
+    "source": "https://github.com/AdwinTS/Blog_interface-original"
   },
   {
-    "title": "Project B",
-    "imageSrc": "projects/project.png",
-    "description": "This is a project made to learn the latest languages by building an app.",
-    "skills": ["React", "Express", "Node", "Sass"],
-    "demo": "https://www.example.com",
-    "source": "https://www.github.com"
+    "title": "Portfoilo based on next.js",
+    "imageSrc": "projects/Next-protfolio.png", 
+    "description": "This is a project made for a portfoio basically my first next.js project.",
+    "skills": ["NEXT.JS", "REACT.JS"],
+    "demo": "https://my-first-next-js-project-on-protfolio.vercel.app/",
+    "source": "https://github.com/AdwinTS/My-first-next.js-project-on-protfolio"
   },
   {
-    "title": "Project C",
-    "imageSrc": "projects/project.png",
-    "description": "This is a project made to learn the latest languages by building an app.",
-    "skills": ["React", "Express", "Node"],
-    "demo": "https://www.example.com",
-    "source": "https://www.github.com"
+    "title": "Pig game",
+    "imageSrc": "projects/Dice-game.png",
+    "description": "This is a project made to have fun with group of friends.",
+    "skills": ["HTML", "CSS", "javascript"],
+    "demo": "https://adwints.github.io/Pig-game/",
+    "source": "https://github.com/AdwinTS/Pig-game"
+  },
+  {
+    "title": "Guess the number",
+    "imageSrc": "projects/Guess-the-number.png",
+    "description": "This is a project made to guess a number and gain points correspondingly",
+    "skills": ["HTML", "CSS", "javascript"],
+    "demo": "https://adwints.github.io/Guess-the-number/",
+    "source": "https://github.com/AdwinTS/Guess-the-number"
   }
 ]
