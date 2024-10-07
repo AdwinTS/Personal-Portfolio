@@ -1,11 +1,20 @@
 :root {
   /* Colours */
-  --color-text: #fff;
+  /* --color-text: #fff;
   --color-primary: #576cbc;
   --color-secondary: #19376d;
   --color-dark: #0b2447;
-  --color-bg: #04152d;
-
+  --color-bg: #04152d; */
+  /* --color-text: #f0e6ff;
+  --color-primary: #8a4baf;
+  --color-secondary: #5e287c;
+  --color-dark: #3b1e58;
+  --color-bg: #240c3d; */
+  --color-text: #00ffea; /* Bright neon for contrast */
+  --color-primary: #0f4c75; /* Deep blue for the main theme */
+  --color-secondary: #1b262c; /* Darker, moody blue */
+  --color-dark: #0d1b2a; /* Near-black for depth */
+  --color-bg: #001f3f;
   /* Fonts */
   --font-roboto: "Roboto";
 }
