@@ -28,7 +28,7 @@ export const About = () => {
             <div className={styles.aboutItemText}>
               <h3>Backend Developer</h3>
               <p>
-                I have experience in using node.js, django and flask 
+                I have experience in using Node.js, Django and Flask.
               </p>
             </div>
           </li>
