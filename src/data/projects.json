@@ -1,12 +1,13 @@
 [
   {
-    "title": "Blog interface",
-    "imageSrc": "projects/Blog-interface.png",
-    "description": "This is a project made to have a blog interface where we can create blogs,edit blogs and delete bogs i am in last steps of publishing it",
-    "skills": ["HTML", "CSS", "flask"],
-    "demo": "https://github.com/AdwinTS/Blog_interface-original",
-    "source": "https://github.com/AdwinTS/Blog_interface-original"
+    "title": "Environmnt Alert Website",
+    "imageSrc": "projects/Environmental Alert.png", 
+    "description": "An website where people can write about environmental problems occuring close to us.",
+    "skills": ["typescript", "javascript","CSS", "HTML"],
+    "demo": "https://environment-alert-n4wb-mulg1wac3-adwin-s-projects.vercel.app/",
+    "source": "https://github.com/AdwinTS/Environment-Alert"
   },
+  
   {
     "title": "Portfoilo based on next.js",
     "imageSrc": "projects/Next-protfolio.png", 
@@ -30,5 +31,13 @@
     "skills": ["HTML", "CSS", "javascript"],
     "demo": "https://adwints.github.io/Guess-the-number/",
     "source": "https://github.com/AdwinTS/Guess-the-number"
+  },
+  {
+    "title": "Blog interface",
+    "imageSrc": "projects/Blog-interface.png",
+    "description": "This is a project made to have a blog interface where we can create blogs,edit blogs and delete bogs i am in last steps of publishing it",
+    "skills": ["HTML", "CSS", "flask"],
+    "demo": "https://github.com/AdwinTS/Blog_interface-original",
+    "source": "https://github.com/AdwinTS/Blog_interface-original"
   }
 ]
